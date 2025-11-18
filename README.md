@@ -63,6 +63,11 @@ In this practice you must recreate a vending machine with an Arduino Uno and its
 
 ## Fritzing diagram
 
+These are the pins used by the different sensors and actuators
+
+<img src="https://github.com/user-attachments/assets/a61cd8b6-95a2-4da7-81e8-bc404a506fd0" width="500" height="500">
+
+
 This is my circuit diagram
 
 <img width="2589" height="1740" alt="circuito_p3_bb" src="https://github.com/user-attachments/assets/8687b25c-a925-45a0-a13e-af1257960d5b" />
@@ -72,6 +77,7 @@ This is my circuit diagram
 ## Final result
 
 Google drive video URL:
+
 
 
 
