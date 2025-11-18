@@ -23,7 +23,7 @@ In this practice you must recreate a vending machine with an Arduino Uno and its
 <table>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/37aa586f-18eb-46c9-a7c7-acec81a06708" width="300" height="300"></td>
-    <td><img src="https://github.com/user-attachments/assets/94df598d-13ee-4bb5-ac64-2e32b8dd3701" width="300" height="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/755a6da3-f12e-40e3-b591-687ee63f45e0" width="300" height="300"></td>
   </tr>
 </table>
 
@@ -66,6 +66,7 @@ In this practice you must recreate a vending machine with an Arduino Uno and its
 ### Fritzing diagram
 
 This is my circuit diagram
+
 
 
 
