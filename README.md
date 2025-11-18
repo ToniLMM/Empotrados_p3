@@ -8,7 +8,7 @@ In this practice you must recreate a vending machine with an Arduino Uno and its
 <img src="https://github.com/user-attachments/assets/af5a10fd-bcca-4646-8af1-613579511da2" width="300">
 
 - LCD  
-<img src="https://github.com/user-attachments/assets/c19f4d05-22ef-4fa7-8322-b1757ff640c4" width="300">
+<img src="https://github.com/user-attachments/assets/f906e8d0-4b57-4c95-81ba-31c7d59b4143" width="300">
 
 - Joystick  
 <img src="https://github.com/user-attachments/assets/94df598d-13ee-4bb5-ac64-2e32b8dd3701" width="300">
@@ -31,3 +31,4 @@ In this practice you must recreate a vending machine with an Arduino Uno and its
 ### Fritzing diagram
 
 This is my circuit diagram
+
