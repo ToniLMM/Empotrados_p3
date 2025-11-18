@@ -1,5 +1,7 @@
 # Vending Machine Controller
 
+## Introduction
+
 In this practice you must recreate a vending machine with an Arduino Uno and its respective sensors and actuators.
 
 ## Materials
@@ -59,16 +61,17 @@ In this practice you must recreate a vending machine with an Arduino Uno and its
   </tr>
 </table>
 
-
-
-
-
-### Fritzing diagram
+## Fritzing diagram
 
 This is my circuit diagram
 
 <img width="2589" height="1740" alt="circuito_p3_bb" src="https://github.com/user-attachments/assets/8687b25c-a925-45a0-a13e-af1257960d5b" />
 
+## Explanation
+
+## Final result
+
+Google drive video URL:
 
 
 
