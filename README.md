@@ -146,9 +146,21 @@ Therefore, the Watchdog is disabled, since no reset is needed.
 ```
 If the button is still pressed (LOW), Timer1 is started and the Watchdog is re-enabled as a precaution.
 
+## Joystick
+
+For ease of gripping the joystick, the X and Y axes are inverted.
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/a120b557-15ee-43cd-9553-27ad24300fcb" width="400" height="400"></td>
+    <td><img src="https://github.com/user-attachments/assets/9b93142b-8e3e-48c2-aafd-67d8f5561a5d" width="400" height="400"></td>
+  </tr>
+</table>
+
 ## Final result
 
 Google drive video URL:
+
 
 
 
