@@ -87,12 +87,12 @@ This line sets up an interrupt on the bot pin that calls the button_pressed() fu
 ```c
 if (digitalRead(bot) == HIGH) {
   // Button released
-  if (pressing_time >= 5) {
+  if (time_pressed >= 5) {
     // Long press → enter admin mode
-  } else if (pressing_time >= 2 && pressing_time < 3 && state == 1) {
+  } else if (time_pressed >= 2 && time_pressed < 3 && state == 1) {
     // Medium press → restart normal flow
   }
-  pressing_time = 0;
+  time_pressed = 0;
 } else {
   // Button pressed
   Timer1.start(); // Start counting how long the button is held
@@ -111,10 +111,10 @@ Every second, the timerCallback() function is triggered:
 ```c
 void timerCallback() {
   noInterrupts();
-  pressing_time++;
+  time_pressed++;
 }
 ```
-This increases pressing_time each second the button is held down, allowing the code to determine whether it was a short, medium, or long press.
+This increases time_pressed each second the button is held down, allowing the code to determine whether it was a short, medium, or long press.
 
 ### Watchdog
 
@@ -168,6 +168,7 @@ Here's another video showing it working without cuts:
 https://github.com/user-attachments/assets/89312ebd-874e-46b5-8c1c-645c70dfefee
 
 Google drive video URL: https://drive.google.com/file/d/1w2Mf1H2V1m0FCMnVGkjwB-wjVSJ8c5rN/view?usp=sharing
+
 
 
 
