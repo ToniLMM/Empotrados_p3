@@ -159,7 +159,19 @@ For ease of gripping the joystick, the X and Y axes are inverted.
 
 ## Final result
 
+Here is the explanatory video:
+
 Google drive video URL:
+
+Here's another video showing it working without cuts:
+
+https://github.com/user-attachments/assets/89312ebd-874e-46b5-8c1c-645c70dfefee
+
+Google drive video URL: https://drive.google.com/file/d/1w2Mf1H2V1m0FCMnVGkjwB-wjVSJ8c5rN/view?usp=sharing
+
+
+
+
 
 
 
